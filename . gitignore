@@ -1,0 +1,8 @@
+*.pdf
+*.csv
+*.txt
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+ar_report_*.pdf
